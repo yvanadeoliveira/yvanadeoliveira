@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Yvana de Oliveira! 👋
 
-<!--
-**yvanadeoliveira/yvanadeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Higher Diploma in Data Analytics (NFQ Level 8, First Class Honours) | BSc in Mathematics (NFQ Level 8, First Class Honours)
+📍 Based in Dublin, Ireland  
+📊 Passionate about transforming data into insights to drive smart decisions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools and Technology: 
+
+Power BI | SQL | Excel (Advanced) | Python (Basic) | R (Academic) | Google Sheets | Financial Software
+
+---
+
+## 📈 My Projects
+
+Here are a few highlighted projects:
+
+👉 Check them out in my pinned repositories below!
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DAX for Power BI  
+- Microsoft PL-300 Certification Prep  
+- Enhancing SQL with real-world case studies
+
+---
+
+## 🤝 Connect or Comment
+
+I'm always happy to collaborate, learn, and share ideas!
+
+- 💬 Open an [issue](https://github.com/yvanadeoliveira/yvanadeoliveira/issues) if you want to leave feedback
+- ✉️ [Email Me](mailto:deoliveirayvana@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yvanadeoliveira)
+
+---
+
+Thanks for stopping by! 🌟
