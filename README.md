@@ -15,17 +15,18 @@ So it made total sense that I followed that passion and earned my degree in **Ma
 For a while, I even had the chance to show others how cool math could be — helping kids and adults see that numbers aren't boring at all!
 
 At some point, I stumbled into the world of **Data Analysis**, and it instantly clicked.  
-Digging into data to uncover patterns, stories, and surprises feels like solving a mystery. Honestly? It still feels like playing one of those tough logic games... and I live for that "You win!" moment when everything clicks.  
+Digging into data to uncover patterns, stories, and surprises feels like solving a mystery. Honestly? It still feels like playing one of those tough logic games... and I live for that "You win!" moment when everything clicks.
+
 That’s how my journey into Data Analytics got started — and it's only getting better.
+
+📍 **Brazilian**, based in Dublin, Ireland  
+📊 **Passionate about** turning loads of data into meaningful stories
 
 ---
 
 ## 🎓 Education  
 - BSc in Mathematics  
 - Specialization in Data Analytics  
-
-📍 **Brazilian**, based in Dublin, Ireland  
-📊 **Passionate about** turning loads of data into meaningful stories
 
 ---
 
