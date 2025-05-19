@@ -32,7 +32,7 @@ That’s how my journey into Data Analytics got started — and it's only gettin
 
 ## 🛠️ Tools & Technologies
 
-Power BI | SQL | Excel (Advanced) | Python (Beginner) | R (Academic) | Google Sheets | Financial Software
+Power BI | SQL | Excel (Advanced) | Python (for data analysis) | R (Academic) | Google Sheets | Financial Software
 
 ---
 
